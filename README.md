@@ -1,2 +1,2 @@
 # CIV355-Fall26
-Repository for CIV355 Intro to DS &amp; AI in Civil Engineering
+Repository for Fall 2026 CIV355 Intro to Data Science &amp; Artificial Intelligence for Civil Engineering
