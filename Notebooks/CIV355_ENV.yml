@@ -1,0 +1,23 @@
+name: CIV355
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - notebook
+  - ipykernel
+  - numpy
+  - pandas
+  - matplotlib
+  - plotly
+  - seaborn
+  - scipy
+  - geopandas
+  - contextily
+  - statsmodels
+  - scikit-learn
+  - imbalanced-learn
+  - openpyxl
+  - pytorch
+  - torchvision
+  - torchaudio
