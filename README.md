@@ -7,3 +7,4 @@ Repository for Fall 2026 CIV355 Intro to Data Science &amp; Artificial Intellige
 | -------------------|-----------------------------------------|-------------------------------|
 Module 1: Fundamentals of Python Programming|
 1.1 Python programming set up|CIV355_Env.pdf|
+1.2 Numpy| |01_Numpy.ipynb|
