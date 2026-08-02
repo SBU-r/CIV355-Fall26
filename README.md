@@ -6,6 +6,6 @@ Repository for Fall 2026 CIV355 Intro to Data Science &amp; Artificial Intellige
 |Module  and Topic        |Lecture Notes    |Notebooks and Data      |Coursework
 | -------------------|-----------------------------------------|-------------------------------|-------------------------------|
 Module 1: Fundamentals of Python Programming| |CIV355_ENV.yml
-1.1 Python programming set up|CIV355_Set_Up_Python_Env.pdf| Lab 1
+1.1 Python programming set up|CIV355_Set_Up_Python_Env.pdf| |Lab 1
 1.2 Numpy| |01_Numpy.ipynb, NY_Bicycle.csv| Lab 2
 1.3 Numpy| |02_Pandas.ipynb,NY_Bicycle.csv| Lab 3
