@@ -4,5 +4,6 @@ Repository for Fall 2026 CIV355 Intro to Data Science &amp; Artificial Intellige
 ## Tentative Course Schedule
 
 Module 1: Fundamentals of Python Programming for Data Science and AI
-1.1 Python programming set up
-1.2 df 
+- Python programming set up
+- Numpy
+- Pandas
