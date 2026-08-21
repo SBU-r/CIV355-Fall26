@@ -2,4 +2,3 @@ The data files are not stored directly in this GitHub repository. Instead, pleas
 
 [Download the course data](https://drive.google.com/drive/folders/1NibcFeaN1Y2Ah3SnCSF6LrZE6jyxinR4?usp=sharing)
 
-<a href="[https://example.com/syllabus](https://drive.google.com/drive/folders/1NibcFeaN1Y2Ah3SnCSF6LrZE6jyxinR4?usp=sharing)" target="_blank" rel="noopener noreferrer">Download the course data</a>
